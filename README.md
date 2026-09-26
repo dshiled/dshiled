@@ -59,3 +59,21 @@ React - PostgreSQL
 
 Based in **Nigeria**, working across international time zones with substantial
 overlap with UK and US hours.
+
+---
+
+## Open to
+
+- Remote software engineering roles
+- AI/LLM engineering roles
+- Backend engineering roles
+- AI agent and automation engineering roles
+- Early-stage startup engineering roles
+- Contract and full-time opportunities
+
+---
+
+## Connect
+
+- Email: destinydlight0@gmail.com
+- GitHub: github.com/dshiled
